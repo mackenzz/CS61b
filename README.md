@@ -1,1 +1,1 @@
-# CS61b
+# Data Structure and Algorithms
