@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.*;
+
 public class SmallFunctions {
     public static void drawTrianngle(int n) {
         for (int i = 0; i < n; i ++) {
@@ -23,4 +25,12 @@ public class SmallFunctions {
             }
         }
     }
+
+
+
 }
+
+
+
+
+

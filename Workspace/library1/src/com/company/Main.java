@@ -7,8 +7,13 @@ public class Main {
         int n = 3;
         SmallFunctions.windowPosSum(a, n);
 
-        System.out.println(java.util.Arrays.toString(a));
+        System.out.println(-3%2);
+
+
+
+
     }
+
 
 
 
